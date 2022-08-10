@@ -1,0 +1,33 @@
+{
+  "Human" : {
+    "name" : "name",
+    "surname" : "surname",
+    "adress" : {
+      "city" : "city",
+      "street" : "street",
+      "phone number" : "phone number"
+    },
+    "contacts" : {
+      "phone" : "phone",
+      "personal" : {
+        "name": "name",
+        "addons": {
+          "street" : "street",
+          "town": {
+            "adress" : {
+              "street" : {
+                "city" : {
+                  "email" : {
+                    "Gmail" : "Gmail",
+                    "Mail.ru" : "Mail.ru"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "stringTest" : "TestString"
+}
